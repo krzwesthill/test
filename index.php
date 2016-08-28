@@ -17,6 +17,6 @@ h2 {display: block; margin-left: 400px; padding-top: 140px}
 
 <h2>Już niedługo wybierzemy dla Ciebie termin.<br>Teraz zapraszamy do kolejnych zadań!</h2>	
 
-</div>
+</di
 
 
